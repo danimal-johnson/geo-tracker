@@ -10,7 +10,7 @@ function App() {
       <section className="info-box-section">
         <h1>This is in the info-box-section.</h1>
       </section>
-      <section className = "map-section">
+      <section className="map-section">
         <h1>This is in the map section</h1>
       </section>
     </div>
